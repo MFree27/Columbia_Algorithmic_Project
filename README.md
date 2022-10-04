@@ -64,9 +64,9 @@ Name: Mike Cutno </br>
 Linkedin: https://www.linkedin.com/in/mikefree27/ </br>
 Personal email: mikecutno@gmail.com </br>
 
-Name: Sheng Gao
-Linkedin: https://www.linkedin.com/in/sheng-gao-11337b216/
-Personal email: sheng_gao@outlook.com
+Name: Sheng Gao </br>
+Linkedin: https://www.linkedin.com/in/sheng-gao-11337b216/ </br>
+Personal email: sheng_gao@outlook.com </br>
 
 ---
 
