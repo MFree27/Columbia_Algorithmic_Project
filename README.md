@@ -48,7 +48,7 @@ The following images show the notebook read in Juypter Lab and in Github under f
 
 ## Contributors
 
-This is the first group project.
+This is the second group project.
 
 Our contact information is:
 
