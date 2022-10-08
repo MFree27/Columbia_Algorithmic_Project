@@ -4,15 +4,19 @@ The 2nd Group Project on Sentimental Algorithmic Trading
 
 ## Introduction
 
-We arrived at this project due to the excellent gains made on a paper trading account held with Alpaca Markets Brokerage. Alpaca provides access to US stock markets, historical data, and fundamental data through its API. We learned about Alpaca from this Financial Technology Computer Programming Certificate Program offered by Columbia University in the City of New York and began to trade with Alpaca through a course offered on Udemy by Mayank Rasu, Vice President, Quantitative Analytics, at Barclays Investment Bank.
+We arrived at this project due to the excellent gains made on a paper trading account held with Alpaca Markets Brokerage. Alpaca provides access to US stock markets, historical data, and fundamental data through its API. We learned about Alpaca from this Financial Technology Computer Programming Certificate Program offered by Columbia University in the City of New York and began to trade with Alpaca through a course offered by Mayank Rasu, Vice President, Quantitative Analytics, at Barclays Investment Bank.
 
-Jeff Smith began this venture by modifying the files provided and selecting the most profitable securities. He quicky began to realize that by following the market and the news both live on the televison and on the financial websites, he could quickly enter the market and earn gains by buying or shorting the securities and exit the positions quickly.
+Jeff Smith began this venture by modifying the files provided and selecting the most profitable securities. He quicky began to realize that by following the market and the news both live on the televison and on the financial websites, he could quickly enter the market and earn gains by buying or shorting the securities and exit the positions quickly.He believe that the market is made up of rallies and crashes, based on the political, economic and climatic events that happen around the world.
 
 Russell Moore undertook to train, along with Sheng Gao, a sentimental machine learning algorithm to interpret the headlines as either positive or negative for the Nasdaq, and then we could theoretically trade based on the machine learning signals.
 
 Mike Cutno began to envision the use of technical indicators to help us exit the trade when it was most appropriate, either by trading or by giving us an alert that the technical indicators have been reached to potentially exit the trade.
 
-## Technologies
+Finally, and equally important, Sheng Gao is our presentation leader. He organized and created our presentation and told us what to do. He is an essential part of our team.
+
+In order to profitably trade, technical indicators need to be used to confirm what you believe is going to happen with the market and alert to exit your positions when the indicators do not agree. One of the technical indicators Jeff strongly believes for this strategy is the DMI indicator.
+
+The DMI is made of three components:
 
 ---
 
@@ -32,7 +36,9 @@ ALPACA_SECRET_KEY = "INSERT HERE"
 
 BASE_URL = "https://paper-api.alpaca.markets"
 
-Enter into your virtual environment conda activate dev and pip install the libraries and dependencies
+---
+
+Enter into your virtual environment by typing conda activate dev and pip install the libraries and dependencies
 
 ---
 
@@ -40,9 +46,7 @@ Enter into your virtual environment conda activate dev and pip install the libra
 
 The following images show the notebook read in Juypter Lab and in Github under financial_planning_tools.ipynb.
 
-## ![Screenshot of Jupyter_Lab with notebook open](Images/Jupyter_Lab.jpg) </br>
-
-## ![Screenshot of Github with notebook open](Images/Github.jpg)
+## ![Screenshot of the notebook open](Images/Jupyter_Lab.jpg) </br>
 
 ---
 
@@ -54,7 +58,7 @@ Our contact information is:
 
 Name: Jeffrey M. Smith </br>
 Linkedin: https://www.linkedin.com/in/jeffsmith77/ </br>
-Personal email: jmstranslate@gmail.com </br>
+Personal email: jsmith@lexsmith.finance </br>
 
 Name: Russell Moore </br>
 Linkedin: https://www.linkedin.com/in/russell-david-moore/
